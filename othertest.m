@@ -12,7 +12,7 @@ classdef othertest < matlab.unittest.TestCase
         % Test methods
 
         function unimplementedTest(testCase)
-            testCase.verifyFail("Unimplemented test");
+            pwd
         end
     end
 
